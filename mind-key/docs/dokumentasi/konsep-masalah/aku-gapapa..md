@@ -1,7 +1,5 @@
 # Aku Gapapa.
 
-## Aku Gapapa.
-
 ***
 
 ### “Aku Gapapa.”

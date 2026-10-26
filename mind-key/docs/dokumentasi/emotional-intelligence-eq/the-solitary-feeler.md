@@ -1,7 +1,5 @@
 # The Solitary Feeler
 
-## The Solitary Feeler
-
 ***
 
 ### “The Solitary Feeler”

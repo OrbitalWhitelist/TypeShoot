@@ -1,7 +1,5 @@
 # Emotional Reasoning
 
-## Emotional Reasoning
-
 ***
 
 ### “Emotional Reasoning”

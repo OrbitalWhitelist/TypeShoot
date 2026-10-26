@@ -1,7 +1,5 @@
 # The Open Listener
 
-## The Open Listener
-
 ***
 
 ### “The Open Listener”

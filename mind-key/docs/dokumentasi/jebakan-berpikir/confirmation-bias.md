@@ -1,7 +1,5 @@
 # Confirmation Bias
 
-## Confirmation Bias
-
 ***
 
 ### “Confirmation Bias”

@@ -1,7 +1,5 @@
 # The Need to Be Understood
 
-## The Need to Be Understood
-
 ***
 
 ### “The Need to Be Understood”
