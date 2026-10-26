@@ -77,9 +77,5 @@ Langsung menyimpulkan, membandingkan ("yang lain lebih parah"), menyepelekan ("s
 </details>
 
 {% hint style="success" %}
-**Yang kupegang:** dengarkan dulu, jaga cerita, dan jangan menanggung sendirian.
-{% endhint %}
-
-{% hint style="info" %}
-Catatan ini berasal dari perspektif personal Raz. Isinya dapat berubah seiring pengalaman dan pemahaman baru. Ini bukan kebenaran mutlak atau saran profesional.
+**Yang kupegang:** memahami dulu, menilai belakangan.
 {% endhint %}

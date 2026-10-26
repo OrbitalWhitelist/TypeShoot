@@ -18,7 +18,22 @@ Mind Key adalah tempat aku menyimpan mindset dan perspektif, baik yang rasional 
 “Sering kali aku terlibat dalam pertengkaran hebat di dalam kepala hingga menurunkan kualitas fokus di dunia nyata.”
 {% endhint %}
 
-Argumen yang aku lampirkan di website ini hanyalah pemikiran semata, bukan sesuatu yang bisa dibenarkan secara keseluruhan.
+***
+
+### Sebelum membaca
+
+{% hint style="info" %}
+Situs ini berisi pengamatan dan pemikiran pribadi. Anggap sebagai bahan untuk berpikir, bukan jawaban pasti.
+{% endhint %}
+
+* **Sifatnya:** catatan ini hasil pengamatan seseorang, bukan penelitian ilmiah.
+* **Bukan saran profesional:** isinya tidak menggantikan psikolog, dokter, atau konselor.
+* **Bisa berubah:** pandanganku bisa bergeser seiring waktu, pengalaman, dan masukan baru.
+* **Boleh tidak setuju:** kalau ada yang terasa kurang tepat, itu wajar dan justru berguna.
+
+{% hint style="warning" %}
+Kalau kamu sedang merasa berat hati, sekarang ataupun nanti, ingatlah: kamu juga manusia yang membutuhkan perhatian orang lain. Kamu tidak harus terus memaksa diri terlihat kuat atau dewasa hanya karena belum terbiasa dengan suatu perasaan. Kalau rasanya terus berat, ajak bicara seseorang yang kamu percayai.
+{% endhint %}
 
 ***
 
@@ -31,3 +46,7 @@ Mulai dari:
 {% content-ref url="dokumentasi/konsep-masalah/" %}
 [konsep-masalah](dokumentasi/konsep-masalah/)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+**Tiga pegangan situs ini:** dengarkan dulu, jaga cerita, dan jangan menanggung sendirian.
+{% endhint %}

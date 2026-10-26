@@ -23,7 +23,3 @@ Aku memecah hal yang terdengar rumit menjadi bagian-bagian yang mendasar. Dari s
 Aku mendengarkan perspektif orang lain, walau tidak selalu mengubah kesimpulanku. Namun perspektif itu bisa memperluas pertanyaan yang perlu diajukan.
 
 ***
-
-{% hint style="info" %}
-Catatan ini berasal dari perspektif personal Raz. Isinya dapat berubah seiring pengalaman dan pemahaman baru. Ini bukan kebenaran mutlak atau saran profesional.
-{% endhint %}

@@ -51,9 +51,5 @@ Orang yang menahan cerita sering bukan tidak percaya pada orang lain, melainkan 
 Yang biasanya membantu sederhana: satu pertanyaan terbuka, tanpa langsung menyimpulkan, dan kepastian bahwa ceritanya dijaga.
 
 {% hint style="success" %}
-**Yang kupegang:** dengarkan dulu, jaga cerita, dan jangan menanggung sendirian.
-{% endhint %}
-
-{% hint style="info" %}
-Ini perspektif pribadi, bisa berubah. Catatan ini berasal dari perspektif personal Raz dan bukan kebenaran mutlak atau saran profesional.
+**Yang kupegang:** kalau seseorang bilang 'gapapa', bertanya sekali lagi dengan lembut itu tidak apa-apa.
 {% endhint %}

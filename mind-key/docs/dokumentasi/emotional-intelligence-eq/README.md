@@ -56,7 +56,3 @@ Kedewasaan juga bukan berarti selalu benar. Seseorang bisa matang di satu hal da
 {% hint style="info" %}
 Memahami emosi bukan tujuan akhir. Ia alat supaya aku bisa berpikir lebih jernih dan memperlakukan orang dengan lebih baik, termasuk diriku sendiri.
 {% endhint %}
-
-{% hint style="info" %}
-Catatan ini berasal dari perspektif personal Raz. Isinya dapat berubah seiring pengalaman dan pemahaman baru. Ini bukan kebenaran mutlak atau saran profesional.
-{% endhint %}

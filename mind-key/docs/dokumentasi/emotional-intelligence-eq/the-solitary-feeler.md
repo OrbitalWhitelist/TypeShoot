@@ -74,10 +74,6 @@ Tidak apa-apa. Sifat ini bukan kesalahan. Tugasnya bukan menghilangkan kebutuhan
 
 </details>
 
-{% hint style="success" %}
-**Yang kupegang:** dengarkan dulu, jaga cerita, dan jangan menanggung sendirian.
-{% endhint %}
-
-{% hint style="info" %}
-Catatan ini berasal dari perspektif personal Raz. Isinya dapat berubah seiring pengalaman dan pemahaman baru. Ini bukan kebenaran mutlak atau saran profesional.
+{% hint style="warning" %}
+**Yang kupegang:** sendirian itu boleh untuk memproses, bukan untuk menanggung semuanya.
 {% endhint %}
