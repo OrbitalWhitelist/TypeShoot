@@ -11,3 +11,6 @@
   * [The Need to Be Understood](dokumentasi/emotional-intelligence-eq/the-need-to-be-understood.md)
 * [Konsep Masalah](dokumentasi/konsep-masalah/README.md)
   * [Aku Gapapa.](dokumentasi/konsep-masalah/aku-gapapa..md)
+* [Jebakan Berpikir](dokumentasi/jebakan-berpikir/README.md)
+  * [Emotional Reasoning](dokumentasi/jebakan-berpikir/emotional-reasoning.md)
+  * [Confirmation Bias](dokumentasi/jebakan-berpikir/confirmation-bias.md)

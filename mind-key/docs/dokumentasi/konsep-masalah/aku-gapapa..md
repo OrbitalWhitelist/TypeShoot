@@ -4,6 +4,10 @@
 
 ***
 
+### “Aku Gapapa.”
+
+***
+
 Kenapa orang bilang "gapapa"?
 
 ### Penjelasan

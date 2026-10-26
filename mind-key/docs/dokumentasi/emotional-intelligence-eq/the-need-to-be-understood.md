@@ -4,6 +4,10 @@
 
 ***
 
+### “The Need to Be Understood”
+
+***
+
 Catatan tentang keinginan untuk dipahami, dan godaan untuk lupa memahami balik.
 
 {% hint style="info" %}
