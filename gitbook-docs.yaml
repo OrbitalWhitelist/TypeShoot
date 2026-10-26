@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: mind-key
+  structure:
+    - type: section
+      key: section-1
+      title: mind-key
+      path: mind-key
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: mind-key
+          path: docs
+          default: true
+          content:
+            directory: ./mind-key/docs
