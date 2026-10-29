@@ -1,7 +1,7 @@
 ---
 description: >-
-  Kumpulan argumen dan pemikiran sederhana terhadap sesuatu yang terdengar
-  kompleks.
+  Kumpulan pemikiran dan perspektif untuk memahami hal-hal yang tidak selalu
+  sesederhana kelihatannya.
 ---
 
 # Selamat Datang
@@ -12,41 +12,57 @@ description: >-
 
 ***
 
-Mind Key adalah tempat aku menyimpan mindset dan perspektif, baik yang rasional maupun sebaliknya, yang datang dari pengamatan pribadi.
+Kumpulan pemikiran dan perspektif untuk memahami hal-hal yang tidak selalu sesederhana kelihatannya.
 
-{% hint style="info" %}
-“Sering kali aku terlibat dalam pertengkaran hebat di dalam kepala hingga menurunkan kualitas fokus di dunia nyata.”
-{% endhint %}
+Mind Key adalah dokumentasi pemikiran dan pengamatan tentang berbagai hal. Isinya bergerak dari cara manusia berpikir hingga cara seseorang memahami persoalan.
 
 ***
+
+### Mengenal Mind Key
+
+{% hint style="info" %}
+Setiap gagasan dapat dipertimbangkan, diuji, dan diperbaiki ketika ditemukan alasan atau bukti yang lebih kuat.
+{% endhint %}
+
+Situs ini mengeksplorasi gagasan melalui pengamatan, penalaran, dan perspektif yang berbeda. Tujuannya bukan memberi jawaban mutlak, melainkan menyediakan bahan untuk memahami, mempertanyakan, dan mengevaluasi suatu gagasan.
 
 ### Sebelum membaca
 
-{% hint style="info" %}
-Situs ini berisi pengamatan dan pemikiran pribadi. Anggap sebagai bahan untuk berpikir, bukan jawaban pasti.
-{% endhint %}
-
-* **Sifatnya:** catatan ini hasil pengamatan seseorang, bukan penelitian ilmiah.
-* **Bukan saran profesional:** isinya tidak menggantikan psikolog, dokter, atau konselor.
-* **Bisa berubah:** pandanganku bisa bergeser seiring waktu, pengalaman, dan masukan baru.
-* **Boleh tidak setuju:** kalau ada yang terasa kurang tepat, itu wajar dan justru berguna.
-
-{% hint style="warning" %}
-Kalau kamu sedang merasa berat hati, sekarang ataupun nanti, ingatlah: kamu juga manusia yang membutuhkan perhatian orang lain. Kamu tidak harus terus memaksa diri terlihat kuat atau dewasa hanya karena belum terbiasa dengan suatu perasaan. Kalau rasanya terus berat, ajak bicara seseorang yang kamu percayai.
-{% endhint %}
+* Konten ini adalah dokumentasi pemikiran dan pengamatan. Ini bukan otomatis hasil penelitian ilmiah.
+* Konten ini tidak menggantikan nasihat profesional.
+* Perspektif dapat berubah seiring bertambahnya informasi dan pengalaman.
+* Kamu bebas tidak setuju selama memiliki alasan yang dapat dipertimbangkan.
 
 ***
 
-### Cara membacanya
+### Menjelajahi dokumentasi
 
-Mulailah dari topik permasalahan yang mendasar, atau sesuatu yang menurutmu dekat dengan keseharian, termasuk perasaan yang sulit dijelaskan.
+Mulailah dari kategori yang paling dekat dengan pertanyaanmu.
 
-Mulai dari:
+**Perspektif Pribadi** mengeksplorasi sudut pandang, penalaran, serta hubungan antara fakta, opini, dan interpretasi.
+
+{% content-ref url="perspektif-pribadi.md" %}
+[perspektif-pribadi.md](perspektif-pribadi.md)
+{% endcontent-ref %}
+
+**Emotional Intelligence (EQ)** membahas emosi, empati, dan interaksi antarmanusia.
+
+{% content-ref url="dokumentasi/emotional-intelligence-eq/" %}
+[emotional-intelligence-eq](dokumentasi/emotional-intelligence-eq/)
+{% endcontent-ref %}
+
+**Konsep Masalah** mengeksplorasi persoalan, pengalaman, atau fenomena yang membutuhkan pemahaman lebih dalam.
 
 {% content-ref url="dokumentasi/konsep-masalah/" %}
 [konsep-masalah](dokumentasi/konsep-masalah/)
 {% endcontent-ref %}
 
-{% hint style="success" %}
-**Tiga pegangan situs ini:** dengarkan dulu, jaga cerita, dan jangan menanggung sendirian.
-{% endhint %}
+**Jebakan Berpikir** membahas kecenderungan berpikir yang dapat memengaruhi penilaian dan kesimpulan.
+
+{% content-ref url="dokumentasi/jebakan-berpikir/" %}
+[jebakan-berpikir](dokumentasi/jebakan-berpikir/)
+{% endcontent-ref %}
+
+### Penutup
+
+Memahami bukan berarti menyetujui. Mempertanyakan bukan berarti menolak. Dan mengubah pandangan bukan berarti kehilangan pendirian.
