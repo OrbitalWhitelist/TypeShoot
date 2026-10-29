@@ -18,9 +18,7 @@ Memahami, mengakui, dan merespons emosi orang lain tanpa harus merasakan emosi y
 
 ### Introduction
 
-Terkadang seseorang menceritakan sesuatu dengan sangat antusias. Pendengarnya mungkin tidak merasakan antusiasme yang sama. Perbedaan itu tidak selalu menghalangi komunikasi.
-
-Yang dibutuhkan sering kali bukan emosi yang serupa. Yang dibutuhkan adalah perhatian pada cerita, konteks, dan kebutuhan orang yang sedang berbicara.
+Emosi pendengar tidak selalu sama dengan emosi orang yang bercerita. Perbedaan itu tetap dapat menghasilkan percakapan yang baik.
 
 ### Understanding the Concept
 
@@ -43,28 +41,28 @@ Kadang orang membutuhkan pertanyaan, pengakuan singkat, atau teman untuk mendeng
 ### For Example
 
 {% tabs %}
-{% tab title="Cerita tentang idola" %}
-**Konteks:** Seseorang sangat antusias menceritakan idolanya. Pendengar tidak mengikuti atau merasakan antusiasme yang sama.
+{% tab title="Pencapaian membanggakan" %}
+**Konteks:** Seseorang dengan bangga menceritakan pencapaian yang penting baginya. Pendengar tidak merasakan kegembiraan yang sama.
 
-**Respons yang kurang tepat:** "Aku tidak mengerti kenapa itu penting."
+**Respons yang kurang tepat:** "Itu biasa saja, kan?"
 
-**Alternatif yang lebih baik:** "Aku belum terlalu tahu tentangnya, tapi kamu terdengar sangat senang. Apa yang paling kamu suka dari dia?"
+**Alternatif yang lebih baik:** "Kamu terlihat bangga dengan pencapaian ini. Bagian mana yang paling berarti buatmu?"
 
-**Alasannya:** Respons ini mengakui antusiasmenya tanpa berpura-pura menjadi penggemar.
+**Alasannya:** Respons ini mengakui bahwa pencapaian itu bermakna tanpa berpura-pura merasakan kegembiraan yang sama.
 {% endtab %}
 
-{% tab title="Hasil yang mengecewakan" %}
-**Konteks:** Seseorang kecewa karena hasil usahanya tidak sesuai harapan.
+{% tab title="Rencana yang berubah" %}
+**Konteks:** Seseorang kecewa karena rencana yang sudah ia siapkan tidak berjalan sesuai harapan.
 
-**Respons yang kurang tepat:** "Sudah, jangan dipikirkan. Masih banyak yang lebih sulit."
+**Respons yang kurang tepat:** "Sudah, jangan dipikirkan. Nanti juga ada rencana lain."
 
-**Alternatif yang lebih baik:** "Kamu sudah berusaha untuk ini. Wajar kalau hasilnya terasa mengecewakan. Kamu ingin cerita tentang bagian yang paling berat?"
+**Alternatif yang lebih baik:** "Kamu sudah menyiapkannya cukup lama. Wajar kalau perubahan ini terasa mengecewakan. Bagian mana yang paling sulit?"
 
-**Alasannya:** Respons ini mengakui kekecewaan tanpa menyimpulkan bahwa masalahnya kecil atau besar.
+**Alasannya:** Respons ini mengakui usaha dan kekecewaannya tanpa menilai besarnya masalah.
 {% endtab %}
 
-{% tab title="Masalah pribadi" %}
-**Konteks:** Seseorang menceritakan masalah pribadi dan membutuhkan seseorang untuk mendengarkan.
+{% tab title="Masalah yang dibagikan" %}
+**Konteks:** Seseorang menceritakan masalahnya. Ia belum tentu menginginkan solusi.
 
 **Respons yang kurang tepat:** "Kalau aku jadi kamu, aku pasti langsung melakukan ini."
 
@@ -76,9 +74,7 @@ Kadang orang membutuhkan pertanyaan, pengakuan singkat, atau teman untuk mendeng
 
 ### Why It Matters
 
-Kemampuan ini membantu percakapan tetap jelas saat emosi dua orang berbeda. Seseorang tidak perlu memilih antara pura-pura setuju atau bersikap dingin.
-
-Mengakui pengalaman orang lain dapat mengurangi kesalahpahaman. Respons yang jujur juga menjaga hubungan tetap terasa autentik, karena perhatian tidak dibangun dari emosi yang dipaksakan.
+Kemampuan ini membantu mengurangi kesalahpahaman saat emosi dua orang berbeda. Respons yang jujur membuat perhatian tetap terasa autentik, tanpa berpura-pura setuju atau ikut merasakan semuanya.
 
 ### Common Misconceptions
 
